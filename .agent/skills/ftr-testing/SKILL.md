@@ -1,4 +1,4 @@
----
+----
 name: ftr-testing
 description: Use when creating, updating, debugging, or reviewing Kibana Functional Test Runner (FTR) tests, including test structure, services/page objects, loadTestFile patterns, tags, and how to run FTR locally.
 ---
