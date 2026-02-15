@@ -1,4 +1,4 @@
-#   Scout API Test Authentication (requestAuth vs samlAuth)
+  #   Scout API Test Authentication (requestAuth vs samlAuth)
 
 Use this when writing API tests with `apiTest`/`apiClient`, especially when validating RBAC.
 
