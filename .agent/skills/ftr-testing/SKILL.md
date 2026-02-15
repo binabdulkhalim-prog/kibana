@@ -3,9 +3,11 @@ name: ftr-testing
 description: Use when creating, updating, debugging, or reviewing Kibana Functional Test Runner (FTR) tests, including test structure, services/page objects, loadTestFile patterns, tags, and how to run FTR locally.
 ---
 
+
+
 # FTR Testing
 
-## Overview
+##        Overview
 FTR (FunctionalTestRunner) runs Kibana UI functional tests written in mocha with `@kbn/expect`. Core principle: use FTR services/page objects for interactions, keep tests organized by config, and understand loadTestFile-driven suites.
 
 ## Core workflow
